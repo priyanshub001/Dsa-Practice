@@ -32,8 +32,8 @@ public class max_element_every_window {
 
         int result[] = maxElement(arr, k);
 
-        for (int k : result) {
-            System.out.print(k + " ");
+        for (int t : result) {
+            System.out.print(t + " ");
         }
     }
 }
