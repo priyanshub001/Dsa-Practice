@@ -16,6 +16,9 @@ public class min_sub_sizek {
             min=Math.min(min, window);
         }
 
+
+
+        
         
 
         return min;
