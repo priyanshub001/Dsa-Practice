@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/priyanshub001/Dsa-Practice/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
