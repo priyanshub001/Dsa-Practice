@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
+| [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
 | [1528-shuffle-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyanshub001/Dsa-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/priyanshub001/Dsa-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
+| [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
+| [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/priyanshub001/Dsa-Practice/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
