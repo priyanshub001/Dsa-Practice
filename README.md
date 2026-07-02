@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/priyanshub001/Dsa-Practice/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshub001/Dsa-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/priyanshub001/Dsa-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
