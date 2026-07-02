@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshub001/Dsa-Practice/tree/master/0225-implement-stack-using-queues) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/priyanshub001/Dsa-Practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Queue
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/priyanshub001/Dsa-Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/priyanshub001/Dsa-Practice/tree/master/0225-implement-stack-using-queues) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/priyanshub001/Dsa-Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/priyanshub001/Dsa-Practice/tree/master/0225-implement-stack-using-queues) |
 ## Graph Theory
 |  |
 | ------- |
