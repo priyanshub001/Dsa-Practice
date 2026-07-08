@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/priyanshub001/Dsa-Practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshub001/Dsa-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/priyanshub001/Dsa-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
