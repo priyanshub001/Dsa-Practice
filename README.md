@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/priyanshub001/Dsa-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshub001/Dsa-Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1528-shuffle-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyanshub001/Dsa-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/priyanshub001/Dsa-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/priyanshub001/Dsa-Practice/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Quickselect
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/priyanshub001/Dsa-Practice/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshub001/Dsa-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
