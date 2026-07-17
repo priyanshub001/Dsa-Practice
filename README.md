@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/priyanshub001/Dsa-Practice/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/priyanshub001/Dsa-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshub001/Dsa-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshub001/Dsa-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -254,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshub001/Dsa-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
