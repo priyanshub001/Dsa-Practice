@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
+| [2652-sum-multiples](https://github.com/priyanshub001/Dsa-Practice/tree/master/2652-sum-multiples) |
 | [3312-sorted-gcd-pair-queries](https://github.com/priyanshub001/Dsa-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshub001/Dsa-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshub001/Dsa-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
