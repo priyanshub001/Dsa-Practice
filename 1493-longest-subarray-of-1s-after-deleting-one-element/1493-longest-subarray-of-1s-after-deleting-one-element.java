@@ -40,12 +40,12 @@ class Solution {
 
 
 
-            ans = Math.max(ans,i-left+1);
+            ans = Math.max(ans,i-left);
 
 
 
         }
 
-        return ans-1;
+        return ans;
     }
 }
