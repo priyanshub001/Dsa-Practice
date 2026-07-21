@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0622-design-circular-queue](https://github.com/priyanshub001/Dsa-Practice/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/priyanshub001/Dsa-Practice/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/priyanshub001/Dsa-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/priyanshub001/Dsa-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/priyanshub001/Dsa-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshub001/Dsa-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/priyanshub001/Dsa-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshub001/Dsa-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/priyanshub001/Dsa-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshub001/Dsa-Practice/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
