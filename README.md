@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0622-design-circular-queue](https://github.com/priyanshub001/Dsa-Practice/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/priyanshub001/Dsa-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0567-permutation-in-string) |
+| [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/priyanshub001/Dsa-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
+| [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshub001/Dsa-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshub001/Dsa-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/priyanshub001/Dsa-Practice/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
