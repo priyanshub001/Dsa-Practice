@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyanshub001/Dsa-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/priyanshub001/Dsa-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshub001/Dsa-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
