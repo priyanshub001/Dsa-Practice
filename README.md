@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshub001/Dsa-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/priyanshub001/Dsa-Practice/tree/master/0709-to-lower-case) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0876-middle-of-the-linked-list) |
