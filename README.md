@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyanshub001/Dsa-Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/priyanshub001/Dsa-Practice/tree/master/0041-first-missing-positive) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0042-trapping-rain-water) |
