@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/priyanshub001/Dsa-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/priyanshub001/Dsa-Practice/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0622-design-circular-queue](https://github.com/priyanshub001/Dsa-Practice/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/priyanshub001/Dsa-Practice/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/priyanshub001/Dsa-Practice/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
