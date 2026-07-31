@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyanshub001/Dsa-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshub001/Dsa-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshub001/Dsa-Practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshub001/Dsa-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/priyanshub001/Dsa-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/priyanshub001/Dsa-Practice/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/priyanshub001/Dsa-Practice/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/priyanshub001/Dsa-Practice/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshub001/Dsa-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/priyanshub001/Dsa-Practice/tree/master/3312-sorted-gcd-pair-queries) |
