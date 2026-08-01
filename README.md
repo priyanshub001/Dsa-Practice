@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/priyanshub001/Dsa-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshub001/Dsa-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyanshub001/Dsa-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/priyanshub001/Dsa-Practice/tree/master/1678-goal-parser-interpretation) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshub001/Dsa-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshub001/Dsa-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/priyanshub001/Dsa-Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
