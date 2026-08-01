@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshub001/Dsa-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshub001/Dsa-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/priyanshub001/Dsa-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/priyanshub001/Dsa-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/priyanshub001/Dsa-Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshub001/Dsa-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshub001/Dsa-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/priyanshub001/Dsa-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/priyanshub001/Dsa-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
