@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/priyanshub001/Dsa-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/priyanshub001/Dsa-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/priyanshub001/Dsa-Practice/tree/master/2652-sum-multiples) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/priyanshub001/Dsa-Practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/priyanshub001/Dsa-Practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/priyanshub001/Dsa-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/priyanshub001/Dsa-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshub001/Dsa-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
