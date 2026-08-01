@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1657-determine-if-two-strings-are-close](https://github.com/priyanshub001/Dsa-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyanshub001/Dsa-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/priyanshub001/Dsa-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshub001/Dsa-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/1528-shuffle-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/priyanshub001/Dsa-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyanshub001/Dsa-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/priyanshub001/Dsa-Practice/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/priyanshub001/Dsa-Practice/tree/master/1768-merge-strings-alternately) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/priyanshub001/Dsa-Practice/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshub001/Dsa-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/priyanshub001/Dsa-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshub001/Dsa-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshub001/Dsa-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshub001/Dsa-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/priyanshub001/Dsa-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/priyanshub001/Dsa-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
