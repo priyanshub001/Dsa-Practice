@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/priyanshub001/Dsa-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/priyanshub001/Dsa-Practice/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/priyanshub001/Dsa-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priyanshub001/Dsa-Practice/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/priyanshub001/Dsa-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/priyanshub001/Dsa-Practice/tree/master/2485-find-the-pivot-integer) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshub001/Dsa-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshub001/Dsa-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
