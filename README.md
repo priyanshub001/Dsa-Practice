@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/priyanshub001/Dsa-Practice/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/priyanshub001/Dsa-Practice/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0189-rotate-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/priyanshub001/Dsa-Practice/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
