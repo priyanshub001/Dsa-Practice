@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/priyanshub001/Dsa-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/priyanshub001/Dsa-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
