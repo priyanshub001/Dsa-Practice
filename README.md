@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyanshub001/Dsa-Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/priyanshub001/Dsa-Practice/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/priyanshub001/Dsa-Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/priyanshub001/Dsa-Practice/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
