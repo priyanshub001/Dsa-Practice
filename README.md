@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/priyanshub001/Dsa-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/priyanshub001/Dsa-Practice/tree/master/0622-design-circular-queue) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/priyanshub001/Dsa-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/priyanshub001/Dsa-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priyanshub001/Dsa-Practice/tree/master/0326-power-of-three) |
