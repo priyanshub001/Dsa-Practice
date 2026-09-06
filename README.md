@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/priyanshub001/Dsa-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/priyanshub001/Dsa-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/priyanshub001/Dsa-Practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/priyanshub001/Dsa-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
