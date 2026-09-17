@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyanshub001/Dsa-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshub001/Dsa-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/priyanshub001/Dsa-Practice/tree/master/0622-design-circular-queue) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/priyanshub001/Dsa-Practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Queue
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshub001/Dsa-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/priyanshub001/Dsa-Practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshub001/Dsa-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshub001/Dsa-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/priyanshub001/Dsa-Practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
