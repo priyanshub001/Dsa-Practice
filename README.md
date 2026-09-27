@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/priyanshub001/Dsa-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshub001/Dsa-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/priyanshub001/Dsa-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/1528-shuffle-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/priyanshub001/Dsa-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshub001/Dsa-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshub001/Dsa-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -689,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/priyanshub001/Dsa-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/priyanshub001/Dsa-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
