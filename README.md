@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/priyanshub001/Dsa-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshub001/Dsa-Practice/tree/master/0055-jump-game) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/priyanshub001/Dsa-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0151-reverse-words-in-a-string) |
