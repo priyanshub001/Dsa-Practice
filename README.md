@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshub001/Dsa-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyanshub001/Dsa-Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/priyanshub001/Dsa-Practice/tree/master/0041-first-missing-positive) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshub001/Dsa-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshub001/Dsa-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/priyanshub001/Dsa-Practice/tree/master/0042-trapping-rain-water) |
