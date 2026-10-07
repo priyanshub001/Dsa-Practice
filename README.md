@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/priyanshub001/Dsa-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/priyanshub001/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0392-is-subsequence) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshub001/Dsa-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/priyanshub001/Dsa-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanshub001/Dsa-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Boyer–Moore Majority Vote Algorithm
