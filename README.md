@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/priyanshub001/Dsa-Practice/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/priyanshub001/Dsa-Practice/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/priyanshub001/Dsa-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/priyanshub001/Dsa-Practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/priyanshub001/Dsa-Practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/priyanshub001/Dsa-Practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshub001/Dsa-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/priyanshub001/Dsa-Practice/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshub001/Dsa-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/priyanshub001/Dsa-Practice/tree/master/0881-boats-to-save-people) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/priyanshub001/Dsa-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/priyanshub001/Dsa-Practice/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/priyanshub001/Dsa-Practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshub001/Dsa-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshub001/Dsa-Practice/tree/master/1021-remove-outermost-parentheses) |
