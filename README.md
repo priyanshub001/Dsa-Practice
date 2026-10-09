@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/priyanshub001/Dsa-Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshub001/Dsa-Practice/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/priyanshub001/Dsa-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/priyanshub001/Dsa-Practice/tree/master/0645-set-mismatch) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyanshub001/Dsa-Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/priyanshub001/Dsa-Practice/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/priyanshub001/Dsa-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/priyanshub001/Dsa-Practice/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshub001/Dsa-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/priyanshub001/Dsa-Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshub001/Dsa-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshub001/Dsa-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/priyanshub001/Dsa-Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/priyanshub001/Dsa-Practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
