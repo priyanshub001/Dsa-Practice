@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/priyanshub001/Dsa-Practice/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshub001/Dsa-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshub001/Dsa-Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshub001/Dsa-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/priyanshub001/Dsa-Practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/priyanshub001/Dsa-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshub001/Dsa-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
