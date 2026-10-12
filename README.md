@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/priyanshub001/Dsa-Practice/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/priyanshub001/Dsa-Practice/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/priyanshub001/Dsa-Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/priyanshub001/Dsa-Practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/priyanshub001/Dsa-Practice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/priyanshub001/Dsa-Practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshub001/Dsa-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshub001/Dsa-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
