@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshub001/Dsa-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshub001/Dsa-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0566-reshape-the-matrix](https://github.com/priyanshub001/Dsa-Practice/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/priyanshub001/Dsa-Practice/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshub001/Dsa-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/priyanshub001/Dsa-Practice/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/priyanshub001/Dsa-Practice/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/priyanshub001/Dsa-Practice/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/priyanshub001/Dsa-Practice/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/priyanshub001/Dsa-Practice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/priyanshub001/Dsa-Practice/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/priyanshub001/Dsa-Practice/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/priyanshub001/Dsa-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/priyanshub001/Dsa-Practice/tree/master/1267-count-servers-that-communicate) |
